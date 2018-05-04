@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11219" started-at="2018-05-04T13:47:35Z" finished-at="2018-05-04T13:47:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11219" started-at="2018-05-04T13:47:35Z" finished-at="2018-05-04T13:47:47Z">
+      <class name="com.ohrm.testPakage.HomePageTest">
+        <test-method status="PASS" signature="homePageLaunch()[pri:0, instance:com.ohrm.testPakage.HomePageTest@61832929]" name="homePageLaunch" is-config="true" duration-ms="9127" started-at="2018-05-04T19:17:35Z" finished-at="2018-05-04T19:17:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageLaunch -->
+        <test-method status="PASS" signature="pimpLinkClick()[pri:1, instance:com.ohrm.testPakage.HomePageTest@61832929]" name="pimpLinkClick" duration-ms="1259" started-at="2018-05-04T19:17:45Z" finished-at="2018-05-04T19:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pimpLinkClick -->
+        <test-method status="PASS" signature="homePageClose()[pri:0, instance:com.ohrm.testPakage.HomePageTest@61832929]" name="homePageClose" is-config="true" duration-ms="815" started-at="2018-05-04T19:17:46Z" finished-at="2018-05-04T19:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageClose -->
+      </class> <!-- com.ohrm.testPakage.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
